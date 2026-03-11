@@ -1,0 +1,5 @@
+{
+  "appId": "com.elm327.dash",
+  "appName": "ELM327 Dash",
+  "webDir": "dist"
+}
